@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/category",
+    "pages/cart/cart",
+    "pages/mine/mine",
+    "pages/search/search",
+    "pages/commodity/commodity",
+    "pages/details/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#b7b7b7",
+    "selectedColor": "",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "static/image/12.png",
+        "selectedIconPath": "static/image/11.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "static/image/22.png",
+        "selectedIconPath": "static/image/21.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "分类",
+        "iconPath": "static/image/32.png",
+        "selectedIconPath": "static/image/31.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/image/42.png",
+        "selectedIconPath": "static/image/41.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

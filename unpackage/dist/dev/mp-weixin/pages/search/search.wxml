@@ -1,0 +1,1 @@
+<navigator url="/pages/category/category" open-type="switchTab" bind:__l="__l">{{'我是搜索页,您搜索的商品id为'+id+'点击跳转'}}</navigator>
